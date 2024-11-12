@@ -3,7 +3,8 @@ from PIL import Image, ImageTk
 from BackEnd import bttn, switch_window, level_window,GameData
 from tkinter import ttk
 import sqlite3
-
+# Ganaa
+print("Hello")
 def start_welcome_window():
     welcome_window = Tk()
     width_value = welcome_window.winfo_screenwidth()
